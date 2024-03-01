@@ -17,12 +17,11 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer, Data S
 ## 📫 How to Reach Me
 
 - 📧 Email: [ronymu2gi@gmail.com](mailto:ronymu2gi@example.com)
-- 💼 LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rony-muriithi-5a9826194) 
-- 🐦 Twitter: [twitter](https://twitter.com/RonnieMutugi)
+- 💼 LinkedIn: [https://www.linkedin.com/in/rony-muriithi-5a9826194](https://www.linkedin.com/in/rony-muriithi-5a9826194) 
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naphtron&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 <!--
 **naphtron/naphtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -
