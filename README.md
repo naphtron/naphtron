@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer, Data S
 ## 🛠️ Skills
 
 - **Languages:** Python, SQL, JavaScript
-- **Libraries & Frameworks:** TensorFlow, Scikit-Learn, Pandas, NumPy, Seaborn, Flask.
-- **Tools & Technologies:** Tableau, Git, Docker, AWS. 
+- **Libraries & Frameworks:** TensorFlow, Scikit-Learn, Pandas, NumPy, Seaborn, Flask. 
 - **Areas of Expertise:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Natural Language Processing, Web Development
 
 ## 📫 How to Reach Me
@@ -26,6 +25,7 @@ Feel free to reach out if you have any questions or if you're interested in coll
 <!--
 **naphtron/naphtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -
 Here are some ideas to get you started:
+- **Tools & Technologies:** Tableau, Git, Docker, AWS.
 ![Visitor Count](https://profile-counter.glitch.me/naphtron/count.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=naphtron&icon=0&color=0)](https://visitcount.itsvg.in)
