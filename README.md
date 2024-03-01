@@ -1,9 +1,41 @@
-### Hi there 👋
+# 👋 Hi, I'm Rony Mutugi
+
+Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer, Data Scientist, and Python Developer dedicated to leveraging data and algorithms to solve complex problems and make data-driven decisions. With a strong foundation in both theory and practical application, I strive to bridge the gap between data science and software engineering to deliver impactful solutions.
+
+## 🌟 About Me
+- 🌱 I'm currently learning AWS to enhance my skills in cloud computing and scalable machine learning solutions. My goal is to leverage AWS's robust, scalable infrastructure to deploy machine learning models efficiently and manage big data analytics, which are crucial for advanced data science projects.
+- 👯 I'm looking to collaborate on projects related to Machine Learning, AI, Data Analysis.
+- 💬 Ask me about anything related to Python, Machine Learning, Data Science, and I'll be happy to help.
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL, JavaScript
+- **Libraries & Frameworks:** TensorFlow, Scikit-Learn, Pandas, NumPy, Seaborn, Flask.
+- **Tools & Technologies:** Tableau, Git, Docker, AWS. 
+- **Areas of Expertise:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Natural Language Processing, Web Development
+
+## 📫 How to Reach Me
+
+- 📧 Email: [ronymu2gi@gmail.com](mailto:ronymu2gi@example.com)
+- 💼 LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rony-muriithi-5a9826194) 
+- 🐦 Twitter: [twitter](https://twitter.com/RonnieMutugi)
+
+Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
+
+
 
 <!--
-**naphtron/naphtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**naphtron/naphtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -
 Here are some ideas to get you started:
+![Visitor Count](https://profile-counter.glitch.me/naphtron/count.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=naphtron&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naphtron&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naphtron&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
