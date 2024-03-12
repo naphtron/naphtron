@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer, Data S
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [ronymu2gi@gmail.com](mailto:ronymu2gi@example.com)
+- 📧 Email: [ronymu2gi@gmail.com](mailto:ronymu2gi@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/rony-muriithi-5a9826194](https://www.linkedin.com/in/rony-muriithi-5a9826194) 
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
