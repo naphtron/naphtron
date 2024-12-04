@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Rony
 
-Welcome to my GitHub profile! I'm passionate about Software Engineering, Data Science and Machine Learning.
+Passionate about Software Engineering, Data Science and ML.
 
 ## 🌟 About Me
-- 🌱 I'm currently learning AWS to enhance my skills in cloud computing and scalable machine learning solutions. My goal is to leverage AWS's robust, scalable infrastructure to deploy machine learning models efficiently and manage big data analytics, which are crucial for advanced data science projects.
-- 👯 I'm looking to collaborate on projects related to Machine Learning, AI, Data Analysis.
-- 💬 Ask me about anything related to Python, Machine Learning, Data Science, and I'll be happy to help.
+- 🌱 Always learning 
+- 👯 Would love to collaborate on projects related to Machine Learning, AI
+
 
 ## 🛠️ Skills
 
 - **Languages:** Python, SQL, JavaScript
 - **Libraries & Frameworks:** TensorFlow, Scikit-Learn, Pandas, NumPy, Seaborn, Flask. 
-- **Areas of Expertise:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Natural Language Processing, Web Development
+- **Areas of Expertise:** Machine Learning, Data Analysis, Data Visualization, Web Development.
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [ronymu2gi@gmail.com](mailto:ronymu2gi@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/rony-muriithi-5a9826194](https://www.linkedin.com/in/rony-muriithi-5a9826194) 
+- [📧 Email ](mailto:ronymu2gi@gmail.com)
+- [💼 LinkedIn ](https://www.linkedin.com/in/rony-muriithi-5a9826194) 
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
