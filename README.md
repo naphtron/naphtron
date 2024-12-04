@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rony Mutugi
+# 👋 Hi, I'm Rony
 
-Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer, Data Scientist, and Python Developer dedicated to leveraging data and algorithms to solve complex problems and make data-driven decisions. With a strong foundation in both theory and practical application, I strive to bridge the gap between data science and software engineering to deliver impactful solutions.
+Welcome to my GitHub profile! I'm passionate about Software Engineering, Data Science and Machine Learning.
 
 ## 🌟 About Me
 - 🌱 I'm currently learning AWS to enhance my skills in cloud computing and scalable machine learning solutions. My goal is to leverage AWS's robust, scalable infrastructure to deploy machine learning models efficiently and manage big data analytics, which are crucial for advanced data science projects.
